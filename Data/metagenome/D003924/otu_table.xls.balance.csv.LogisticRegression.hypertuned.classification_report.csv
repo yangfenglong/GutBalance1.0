@@ -1,0 +1,5 @@
+,D003924,D006262,accuracy,macro avg,weighted avg
+precision,0.71,0.69,0.7,0.7,0.7
+recall,0.67,0.72,0.7,0.7,0.7
+f1-score,0.69,0.7,0.7,0.7,0.7
+support,260.0,260.0,0.7,520.0,520.0

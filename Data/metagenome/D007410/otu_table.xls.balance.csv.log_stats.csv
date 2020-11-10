@@ -1,0 +1,13 @@
+stats_index,stats_value
+original_dim,"(229, 68)"
+prevalence_0.0_dim,"(229, 68)"
+ori_class_sample_count,"Counter({0: 187, 1: 42})"
+over_sampling_class_sample_count,"Counter({0: 187, 1: 129})"
+best_estimator,"{'scl': 'NonScaler', 'clf': 'LogisticRegression'}"
+hypertuned_best_parameters,"{'clf': LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False), 'clf__C': 10000.0, 'scl': NonScaler()}"
+hypertuned_best_score_accuracy,0.80
+hypertuned_accuracy,0.80
