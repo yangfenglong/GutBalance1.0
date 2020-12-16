@@ -1,0 +1,28 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_clf,param_clf__C,param_scl,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score,split0_train_score,split1_train_score,split2_train_score,split3_train_score,split4_train_score,mean_train_score,std_train_score
+0.9687165737152099,0.1393488278853005,0.0268953800201416,0.0027296691144951214,"LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False)",0.0001,NonScaler(),"{'clf': LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False), 'clf__C': 0.0001, 'scl': NonScaler()}",0.5,0.5,0.5,0.5,0.5,0.5,0.0,3,0.5,0.5,0.5,0.5,0.5,0.5,0.0
+0.15444650650024414,0.02474624042881693,0.035404014587402347,0.009095779215041172,"LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False)",1.0,NonScaler(),"{'clf': LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False), 'clf__C': 1.0, 'scl': NonScaler()}",0.7007042253521126,0.6063829787234043,0.5957446808510638,0.6702127659574468,0.7375886524822695,0.6621266606732595,0.0543360858462259,2,0.7198581560283688,0.7371681415929203,0.7477876106194691,0.7690265486725664,0.7805309734513274,0.7508742860729304,0.021764236851078343
+0.49282040596008303,0.06608600682101194,0.020714187622070314,0.007891142630585116,"LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False)",10000.0,NonScaler(),"{'clf': LogisticRegression(C=10000.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=0.15, max_iter=100,
+                   multi_class='auto', n_jobs=None, penalty='elasticnet',
+                   random_state=0, solver='saga', tol=0.0001, verbose=0,
+                   warm_start=False), 'clf__C': 10000.0, 'scl': NonScaler()}",0.8697183098591549,0.8014184397163121,0.7943262411347518,0.7446808510638298,0.6950354609929078,0.7810358605533912,0.058607876610142405,1,0.8235815602836879,0.8336283185840708,0.8451327433628318,0.8495575221238938,0.8725663716814159,0.8448933032071801,0.016545097482135437
